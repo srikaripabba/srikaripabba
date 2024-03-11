@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/srikaripabba/static/css/main.e6c13ad2.css",
+    "main.js": "/srikaripabba/static/js/main.65afc17d.js",
+    "static/js/453.759a809a.chunk.js": "/srikaripabba/static/js/453.759a809a.chunk.js",
+    "index.html": "/srikaripabba/index.html",
+    "main.e6c13ad2.css.map": "/srikaripabba/static/css/main.e6c13ad2.css.map",
+    "main.65afc17d.js.map": "/srikaripabba/static/js/main.65afc17d.js.map",
+    "453.759a809a.chunk.js.map": "/srikaripabba/static/js/453.759a809a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.65afc17d.js"
+  ]
+}
